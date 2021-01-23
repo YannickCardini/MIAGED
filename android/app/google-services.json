@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091977870448",
+    "project_id": "miaged-24e00",
+    "storage_bucket": "miaged-24e00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091977870448:android:b8d64cd307112521cc08b5",
+        "android_client_info": {
+          "package_name": "com.example.MIAGED"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091977870448-kcdkkkm1j3u0742dcrd04htcn2kkust2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGbohhZzezGokv_OMD652RoxNZhywd150"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091977870448-kcdkkkm1j3u0742dcrd04htcn2kkust2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
